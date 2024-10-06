@@ -1,4 +1,3 @@
-# The final project we worked on in CSCI 445 - Image processing that combined all previous methods and techiques involved in image processing and analysis.
 # Project 5: Lung Segmentation from X-ray Images
 
 ## Overview

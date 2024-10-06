@@ -1,4 +1,3 @@
-# Final Homework assigned in CSCI 209 - Java using all methods that we learned previously in class.
 # Homework 08: Heat Simulation using 2D Arrays
 
 ## Overview
